@@ -1,0 +1,20 @@
+{
+  "name": "npm-init",
+  "version": "1.0.0",
+  "description": "Curso de npm, fundamentos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Pariente1"
+  },
+  "keywords": [
+    "['javascript",
+    "angular",
+    "node']"
+  ],
+  "author": "Mr4nderson",
+  "license": "MIT"
+}
